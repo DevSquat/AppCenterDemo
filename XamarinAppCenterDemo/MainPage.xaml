@@ -83,7 +83,7 @@
                 <FormattedString>
                     <FormattedString.Spans>
                         <Span Text="DeviceType: "/>
-                        <Span AutomationId="DeviceTypeSpan" x:Name="c" FontAttributes="Italic"/>
+                        <Span AutomationId="DeviceTypeSpan" x:Name="DeviceTypeSpan" FontAttributes="Italic"/>
                     </FormattedString.Spans>
                 </FormattedString>
             </Label.FormattedText>

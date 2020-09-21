@@ -24,7 +24,7 @@ namespace XamarinAppCenterDemo
             VersionString.Text = DeviceInfo.VersionString;
             Platform.Text = DeviceInfo.Platform.ToString();
             Idiom.Text = DeviceInfo.Idiom.ToString();
-            DeviceType.Text = DeviceInfo.DeviceType.ToString();
+            DeviceTypeSpan.Text = DeviceInfo.DeviceType.ToString();
         }
     }
 }
